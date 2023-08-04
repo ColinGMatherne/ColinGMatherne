@@ -1,4 +1,4 @@
-<h1>Hello, I'm Colin, a <a href="https://linkedin.com/in/colin-matherne-065b55264">FOOBAR</a></h1>
+<h1>Hello, I'm Colin, an aspiring <a href="https://linkedin.com/in/colin-matherne-065b55264">Help Desk Technician</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
