@@ -15,4 +15,4 @@
 
 [<img align="left" alt="Colin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://linkedin.com/in/Colin](https://www.linkedin.com/in/colin-matherne-065b55264/)
+[linkedin]: [https://www.linkedin.com/in/colin-matherne-065b55264/](https://www.linkedin.com/in/colin-matherne-065b55264/)
