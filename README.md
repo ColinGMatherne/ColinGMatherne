@@ -2,14 +2,14 @@
 
 <h2> Information Technology Projects:</h2>
 
+- <b>VSSH (Very Small SHell)</b>
+  - [VSSH](https://github.com/ColinGMatherne/vssh)
+- <b>Client/Server Worldle Clone using linux C Sockets</b>
+  - [Wordle Clone](https://github.com/ColinGMatherne/Wordle_Clone)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ColinGMatherne/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/ColinGMatherne/Azure-VM)
-- <b>Client/Server Worldle Clone using linux C Sockets</b>
-  - [Wordle Clone](https://github.com/ColinGMatherne/Wordle_Clone)
-- <b>VSSH (Very Small SHell)</b>
-  - [VSSH](https://github.com/ColinGMatherne/vssh)
 
 <h2></h2>
 
